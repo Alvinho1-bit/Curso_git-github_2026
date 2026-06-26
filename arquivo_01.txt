@@ -1,5 +1,4 @@
 arquivos da secundaria 01
-<<<<<<< HEAD
 git é baooo demais
 
 
