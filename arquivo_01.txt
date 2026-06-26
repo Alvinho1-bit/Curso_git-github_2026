@@ -1,4 +1,5 @@
 arquivos da secundaria 01
-git é baoo demais
-bora aprender git:)
+<<<<<<< HEAD
+git é baooo demais
+
 
