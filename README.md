@@ -3,6 +3,7 @@
 Git para iniciar  
 Next one: SQL  
 After: Python  
+Then : Pandas
 
 Pessoas Participantes:
 
