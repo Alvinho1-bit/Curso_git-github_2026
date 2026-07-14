@@ -7,5 +7,5 @@ Then : Pandas
 
 Pessoas Participantes:
 
--Alvaro Aquino
+-Alvaro Aquino  
 -Teo Calvo
